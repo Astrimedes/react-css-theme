@@ -8,6 +8,7 @@ This project is basically a copy of [this example](https://jsramblings.com/react
 
 ## Styled Components
 [Official page](https://styled-components.com/)
+* There's a VS Code extension to provide css syntax highlighting for styled components called 'vscode-styled-components'
 
 ## create-react-app
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
