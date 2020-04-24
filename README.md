@@ -1,3 +1,15 @@
+## React ThemeProvider
+This tiny project shows one way to use themes in React:
+1. Use styled-components ThemeProvider component to wrap entire app, provide access to POJO theme
+2. Create a global styled component that reads from the theme and attaches css to the dom
+3. Individual components all have access to the POJO theme via props.theme
+
+This project is basically a copy of [this example](https://jsramblings.com/react-theming-with-styled-components/)
+
+## Styled Components
+[Official page](https://styled-components.com/)
+
+## create-react-app
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
